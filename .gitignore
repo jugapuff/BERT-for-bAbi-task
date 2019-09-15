@@ -1,0 +1,6 @@
+
+.data/
+tasks_1-20_v1-2/
+*.ipynb
+
+.DS_Store
